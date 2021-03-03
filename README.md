@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin - aka [Altair115][website] 👋
+### Hi there, I'm [Altair115][website] 👋
 
 
 
