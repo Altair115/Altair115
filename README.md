@@ -20,7 +20,7 @@
 <img align="left" alt="Altair115's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Altair115&show_icons=true&hide_border=true&theme=tokyonight "/>
 
 [website]: https://altair115.github.io/
-[linkedin]: https://www.linkedin.com/in/kevin-celinski/
+
 
 
 <!--
