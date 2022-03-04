@@ -4,9 +4,9 @@
 
 
 ## I'm a Student, Developer, and Artist!
-- 🔭 I’m currently working on Project Hollow
-- 🌱 I’m currently learning Japanese
-- ⚡ Fun fact: I love to draw and play games
+- 🔭 I’m currently working on a secret game project
+- 🌱 I’m currently trying to learn Japanese
+- ⚡ Fun fact: I love to draw, play games or cook
 
 ### Connect with me:
 
