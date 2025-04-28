@@ -3,7 +3,7 @@
 
 
 
-## I'm a Student, Developer, and Artist!
+## I'm a Developer, Artist and Chef!
 - 🔭 I’m currently working on a secret game project
 - 🌱 I’m currently trying to learn Japanese
 - ⚡ Fun fact: I love to draw, play games or cook
